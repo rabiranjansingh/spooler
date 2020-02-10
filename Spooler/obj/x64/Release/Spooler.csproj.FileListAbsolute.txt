@@ -1,0 +1,5 @@
+c:\users\addin\documents\visual studio 2015\Projects\Spooler\Spooler\bin\x64\Release\Spooler.exe.config
+c:\users\addin\documents\visual studio 2015\Projects\Spooler\Spooler\bin\x64\Release\Spooler.exe
+c:\users\addin\documents\visual studio 2015\Projects\Spooler\Spooler\bin\x64\Release\Spooler.pdb
+c:\users\addin\documents\visual studio 2015\Projects\Spooler\Spooler\obj\x64\Release\Spooler.exe
+c:\users\addin\documents\visual studio 2015\Projects\Spooler\Spooler\obj\x64\Release\Spooler.pdb

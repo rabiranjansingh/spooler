@@ -1,0 +1,1 @@
+c:\users\addin\documents\visual studio 2015\Projects\Spooler\Spooler\bin\Release\Spooler.exe.config

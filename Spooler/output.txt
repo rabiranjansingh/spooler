@@ -1,0 +1,86 @@
+﻿Attributes: 580
+Availability:
+AvailableJobSheets:
+AveragePagesPerMinute: 0
+Capabilities: System.UInt16[]
+CapabilityDescriptions: System.String[]
+Caption: Brother DCP-1610NW series Printer
+CharSetsSupported:
+Comment:
+ConfigManagerErrorCode:
+ConfigManagerUserConfig:
+CreationClassName: Win32_Printer
+CurrentCapabilities:
+CurrentCharSet:
+CurrentLanguage:
+CurrentMimeType:
+CurrentNaturalLanguage:
+CurrentPaperType:
+Default: True
+DefaultCapabilities:
+DefaultCopies:
+DefaultLanguage:
+DefaultMimeType:
+DefaultNumberUp:
+DefaultPaperType:
+DefaultPriority: 0
+Description:
+DetectedErrorState: 0
+DeviceID: Brother DCP-1610NW series Printer
+Direct: False
+DoCompleteFirst: True
+DriverName: Brother Laser Type1 Class Driver
+EnableBIDI: False
+EnableDevQueryPrint: False
+ErrorCleared:
+ErrorDescription:
+ErrorInformation:
+ExtendedDetectedErrorState: 0
+ExtendedPrinterStatus: 2
+Hidden: False
+HorizontalResolution: 600
+InstallDate:
+JobCountSinceLastReset: 0
+KeepPrintedJobs: False
+LanguagesSupported: System.UInt16[]
+LastErrorCode:
+Local: True
+Location: http://192.168.1.15:80/WebServices/Device
+MarkingTechnology:
+MaxCopies:
+MaxNumberUp:
+MaxSizeSupported:
+MimeTypesSupported:
+Name: Brother DCP-1610NW series Printer
+NaturalLanguagesSupported:
+Network: False
+PaperSizesSupported: System.UInt16[]
+PaperTypesAvailable:
+Parameters:
+PNPDeviceID:
+PortName: WSD-76ed8bc1-c147-48c2-86ee-673e9805dd16
+PowerManagementCapabilities:
+PowerManagementSupported:
+PrinterPaperNames: System.String[]
+PrinterState: 0
+PrinterStatus: 3
+PrintJobDataType: RAW
+PrintProcessor: winprint
+Priority: 1
+Published: False
+Queued: False
+RawOnly: False
+SeparatorFile:
+ServerName:
+Shared: False
+ShareName:
+SpoolEnabled: True
+StartTime:
+Status: Unknown
+StatusInfo:
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-RUCIK62
+TimeOfLastReset:
+UntilTime:
+VerticalResolution: 600
+WorkOffline: False

@@ -1,0 +1,6 @@
+c:\users\addin\documents\visual studio 2015\Projects\Spooler\Spooler\bin\Debug\Spooler.exe.config
+c:\users\addin\documents\visual studio 2015\Projects\Spooler\Spooler\bin\Debug\Spooler.exe
+c:\users\addin\documents\visual studio 2015\Projects\Spooler\Spooler\bin\Debug\Spooler.pdb
+c:\users\addin\documents\visual studio 2015\Projects\Spooler\Spooler\obj\Debug\Spooler.exe
+c:\users\addin\documents\visual studio 2015\Projects\Spooler\Spooler\obj\Debug\Spooler.pdb
+c:\users\addin\documents\visual studio 2015\Projects\Spooler\Spooler\obj\Debug\Spooler.csprojResolveAssemblyReference.cache
