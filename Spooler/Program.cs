@@ -61,11 +61,6 @@ namespace Spooler
 
         // add printer function 
 
-       
-
-        PrinterInfo2 obj = new PrinterInfo2();
-        PrinterInfo2 p;
-
 
 
 
@@ -116,7 +111,7 @@ namespace Spooler
             if (!OpenPrinter(printerName, ref hPrinter, def))
             {
                 var lastWin32Error = new Win32Exception(Marshal.GetLastWin32Error());
-              Console.WriteLine("Failed open Printer: " + lastWin32Error.Message);
+                Console.WriteLine("Failed open Printer: " + lastWin32Error.Message);
                 throw lastWin32Error;
             }
             return hPrinter;

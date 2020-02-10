@@ -20,4 +20,21 @@ git commit -m "adding Files"
 
 git remote add origin https://github.com/rabiranjansingh/spooler.git
 
-git push -u origin master or git push origin master --force
+git push -u origin master 
+
+
+
+using System.Runtime.InteropServices;
+            [DllImport("winspool.drv", EntryPoint = "OpenPrinter", SetLastError = true)]
+
+		/[DllImport("winspool.drv", EntryPoint = "AddPrinter", SetLastError = true)]
+        //public static extern bool AddPrinter(string pPrinterName, obj, PRINTER_INFO_2(with hard code about the printer ));
+
+		third argument 
+		You must specify non-NULL values for the pPrinterName, pPortName, pDriverName, and pPrintProcessor members of this structure before calling AddPrinter .
+
+
+		BOOL AddJob( _In_  HANDLE  hPrinter,_In_  DWORD   Level, _Out_ LPBYTE  pData,_In_  DWORD   cbBuf, _Out_ LPDWORD pcbNeeded );
+
+
+		when i open the printer the i will get(  IntPtr  ) var hPrinter = IntPtr.Zero;
